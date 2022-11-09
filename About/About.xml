@@ -3,7 +3,7 @@
     <name>[WD] Expanded Floors support for Cupro's Stones</name>
     <author>UntouchedWagons</author>
     <url>https://github.com/UntouchedWagons/ExpandedFloorsSupportForCuprosStones</url>
-    <packageId>UntouchedWagons.Rimworld.ExpandedFloorsSupportForCuprosStones</packageId>
+    <packageId>UntouchedWagons.ExpandedFloorsSupportForCuprosStones</packageId>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
