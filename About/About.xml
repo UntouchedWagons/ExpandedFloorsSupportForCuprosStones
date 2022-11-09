@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[WD] Expanded Floors support for Cupro's Stones</name>
+    <author>UntouchedWagons</author>
+    <url>https://github.com/UntouchedWagons/ExpandedFloorsSupportForCuprosStones</url>
+    <packageId>UntouchedWagons.Rimworld.ExpandedFloorsSupportForCuprosStones</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+
+    <description>
+      [h1][WD] Expanded Floors support for Cupro's Stones[/h1]
+    </description>
+
+    <modDependencies>
+        <li>
+            <packageId>ogliss.cupro.cuprosstones</packageId>
+            <displayName>Cupro's Stones</displayName>
+            <downloadUrl>https://github.com/Ogliss/Cupros-Stones/</downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2018621294</steamWorkshopUrl>
+        </li>
+        <li>
+            <packageId>Wemd.ExpandedFloors</packageId>
+            <displayName>[WD] Expanded Floors</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1817862464</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>ogliss.cupro.cuprosstones</li>
+        <li>Wemd.ExpandedFloors</li>
+    </loadAfter>
+</ModMetaData>
